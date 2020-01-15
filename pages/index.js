@@ -6,6 +6,14 @@ const Home = () => {
     <div>
       <Head title="Ryan & Heather" />
       <img src="/img/itshappening.gif" alt="It's happening"/>
+      <style jsx>{`
+        div {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 100vh;
+        }
+      `}</style>
     </div>
   );
 };
