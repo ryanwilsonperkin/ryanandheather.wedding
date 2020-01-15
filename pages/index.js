@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div>
       <Head title="Ryan & Heather" />
-      <img src="/public/itshappening.gif" alt="It's happening"/>
+      <img src="/img/itshappening.gif" alt="It's happening"/>
     </div>
   );
 };
